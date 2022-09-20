@@ -21,6 +21,6 @@ extra change
 
 Please fork this repository and then issue Pull Requests for review
 
-## Copyright
+### Copyright
 
-Copyright 2022 Git.training
+Copyright 2022 Git.training. All rights reserved
