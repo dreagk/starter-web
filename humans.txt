@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Drea andrea@sample.email @drea
 
 # THANKS
 
