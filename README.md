@@ -17,3 +17,7 @@ extra change
 
 
 ## How to Contribute
+
+## Copyright
+
+Copyright 2022 Git.training
